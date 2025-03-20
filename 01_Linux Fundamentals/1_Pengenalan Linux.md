@@ -10,7 +10,7 @@
 
 ![Linus Torvalds](https://cdn1.techbang.com/system/excerpt_images/9858/special_headline/115b203ae9efa93c77b9b3f4e9b5b6b9.jpg?1340180490)
 
-Linux tidak bisa jalan secara independen / sendiri, oleh karena itu biasanya Linux dibungkus sebagai **Linux Distribution (Distro)**, yang di dalamnya terdapat **Kernel Linux** sebagai otak utama dari Operating System (OS) beserta Software Sistem dan Libraries yang kebanyakan disediakan oleh Pihak Ketiga (Third Parties) untuk membuat sebuah Operating System yang sempurna dan berfungsi dengan baik.
+Linux tidak bisa berjalan secara independen / sendiri, oleh karena itu biasanya Linux dibungkus sebagai **Linux Distribution (Distro)**, yang di dalamnya terdapat **Kernel Linux** sebagai otak utama dari Operating System (OS) beserta Software Sistem dan Libraries yang kebanyakan disediakan oleh Pihak Ketiga (Third Parties) untuk membuat sebuah Operating System yang sempurna dan berfungsi dengan baik.
 
 ## Distro Linux
 
@@ -31,7 +31,13 @@ Berikut adalah beberapa Distro Linux / Varian dari Linux yang populer dan sering
 
 - ### Debian Linux
 
-**Debian GNU/Linux** adalah
+**Debian** [^4][^5] adalah [sistem operasi](https://id.wikipedia.org/wiki/Sistem_operasi "Sistem operasi") komputer yang tersusun dari paket-paket perangkat lunak yang dirilis sebagai perangkat lunak bebas dan terbuka dengan lisensi mayoritas _GNU General Public License_ dan lisensi perangkat lunak bebas lainnya. **Debian GNU/Linux** memuat perkakas sistem operasi GNU dan [kernel Linux](https://id.wikipedia.org/wiki/Kernel_Linux "Kernel Linux") merupakan [distribusi Linux](https://id.wikipedia.org/wiki/Distribusi_Linux "Distribusi Linux") yang populer dan berpengaruh. Debian didistribusikan dengan akses ke repositori dengan ribuan paket perangkat lunak yang siap untuk instalasi dan digunakan.
+
+Debian terkenal dengan sikap tegas pada filosofi dari Unix dan perangkat lunak bebas. Debian dapat digunakan pada beragam [perangkat keras](https://id.wikipedia.org/wiki/Perangkat_keras "Perangkat keras"), mulai dari komputer jinjing dan _desktop_ hingga telepon dan [server](https://id.wikipedia.org/wiki/Peladen "Peladen"). Debian fokus pada ==kestabilan dan keamanan==. Debian banyak digunakan sebagai basis dari banyak distribusi GNU/Linux lainnya.
+
+
+> [!info] Info
+> Untuk **proses instalasi** Distro Linux dapat dilihat pada file [[2_Instalasi| Instalasi]]
 
 
 [^1]: [**Canonical Ltd.**](https://id.wikipedia.org/wiki/Canonical_Ltd.#cite_note-6) adalah suatu perusahaan swasta dalam bidang [perangkat lunak](https://id.wikipedia.org/wiki/Perangkat_lunak "Perangkat lunak") [komputer](https://id.wikipedia.org/wiki/Komputer "Komputer") yang berpusat di [Britania Raya](https://id.wikipedia.org/wiki/Britania_Raya "Britania Raya"). Perusahaan ini didirikan (dan didanai) oleh [Mark Shuttleworth](https://id.wikipedia.org/wiki/Mark_Shuttleworth "Mark Shuttleworth"), seorang pengusaha dari [Afrika Selatan](https://id.wikipedia.org/wiki/Afrika_Selatan "Afrika Selatan"), untuk memasarkan dukungan [komersial](https://id.wikipedia.org/wiki/Komersial "Komersial") dan layanan terkait [Ubuntu](https://id.wikipedia.org/wiki/Ubuntu "Ubuntu") dan semua proyek yang berhubungan.
@@ -39,3 +45,7 @@ Berikut adalah beberapa Distro Linux / Varian dari Linux yang populer dan sering
 [^2]: https://id.wikipedia.org/wiki/Linux_Mint#cite_note-4
 
 [^3]: https://id.wikipedia.org/wiki/Linux_Mint#cite_note-5
+
+[^4]: https://id.wikipedia.org/wiki/Debian#cite_note-debfaq-def-2
+
+[^5]: https://id.wikipedia.org/wiki/Debian#cite_note-debianorg-about-3
