@@ -39,6 +39,8 @@ Debian terkenal dengan sikap tegas pada filosofi dari Unix dan perangkat lunak b
 > [!info] Info
 > Untuk **proses instalasi** Distro Linux dapat dilihat pada file [[2_Instalasi| Instalasi]]
 
+### **[[2_Instalasi|Instalasi Linux]]**
+
 
 [^1]: [**Canonical Ltd.**](https://id.wikipedia.org/wiki/Canonical_Ltd.#cite_note-6) adalah suatu perusahaan swasta dalam bidang [perangkat lunak](https://id.wikipedia.org/wiki/Perangkat_lunak "Perangkat lunak") [komputer](https://id.wikipedia.org/wiki/Komputer "Komputer") yang berpusat di [Britania Raya](https://id.wikipedia.org/wiki/Britania_Raya "Britania Raya"). Perusahaan ini didirikan (dan didanai) oleh [Mark Shuttleworth](https://id.wikipedia.org/wiki/Mark_Shuttleworth "Mark Shuttleworth"), seorang pengusaha dari [Afrika Selatan](https://id.wikipedia.org/wiki/Afrika_Selatan "Afrika Selatan"), untuk memasarkan dukungan [komersial](https://id.wikipedia.org/wiki/Komersial "Komersial") dan layanan terkait [Ubuntu](https://id.wikipedia.org/wiki/Ubuntu "Ubuntu") dan semua proyek yang berhubungan.
 
